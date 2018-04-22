@@ -26,6 +26,7 @@
 		18D93503208C4FE7006D04CF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		18D93505208C4FE7006D04CF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		18D93506208C4FE7006D04CF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		18D9350D208C500C006D04CF /* YFMacro.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YFMacro.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +63,7 @@
 				18D934F8208C4FE6006D04CF /* AppDelegate.m */,
 				18D934FA208C4FE6006D04CF /* ViewController.h */,
 				18D934FB208C4FE7006D04CF /* ViewController.m */,
+				18D9350D208C500C006D04CF /* YFMacro.h */,
 				18D934FD208C4FE7006D04CF /* Main.storyboard */,
 				18D93500208C4FE7006D04CF /* Assets.xcassets */,
 				18D93502208C4FE7006D04CF /* LaunchScreen.storyboard */,
